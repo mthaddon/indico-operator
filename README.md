@@ -55,4 +55,5 @@ admin account, or by setting up an external authentication source, such as
 SAML.
 
 For further details,
-[see the charm's detailed documentation](https://charmhub.io/indico/docs).
+[see the charm's detailed documentation](https://charmhub.io/indico/docs) if
+you like.
